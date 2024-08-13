@@ -8,7 +8,18 @@
 
 ### Reading and Presentations:
 * **Lecture material:**
-* **Presentation slides:**
+    - https://jupyter-docker-stacks.readthedocs.io/en/latest/
+* **Source Code/Examples:**
+
+Download a container from a Docker registry.
+
+  ```
+  export SINGULARITY_CACHEDIR="/scratch/$USER/job_$SLURM_JOB_ID"
+  ```
+  ```
+  singularity build scipy-notebook.sif docker://quay.io/jupyter/scipy-notebook:2024-05-27
+  ```
+    
 ### TASKS: None at this time.
 
 [Back to Top](#top)

@@ -7,8 +7,10 @@
 **Presented by:** [Paul Rodriguez](https://profiles.ucsd.edu/paul.rodriguez) (p4rodriguez at ucsd.edu) 
 
 ### Reading and Presentations:
-* **Lecture material:**
 * **Presentation slides:**
+  * https://github.com/ciml-org/ciml-summer-institute-2024/blob/main/3.6_deep_learning_special_connections/C24-DL-connections-v10.pdf
+  * https://github.com/ciml-org/ciml-summer-institute-2024/blob/main/3.6_deep_learning_special_connections/C24_IntroTransformer_v5.pdf
+  
 ### TASKS: None at this time.
 
 [Back to Top](#top)
